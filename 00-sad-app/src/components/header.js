@@ -12,7 +12,7 @@ export default class Header extends Component {
                 </img>
                 </div>
                 <div>
-                <a href="#id_projects" id="projects" style={{textAlign: "right", marginLeft: "90%", marginRight: "10%"}}>Projects</a>
+                <a href="#id_projects" id="projects" style={{textAlign: "right", marginRight: "2%"}}>Projects</a>
               
                   <a href="#id_about" id="navigation" style={{textAlign: "right", marginRight: "5%"}}>About Me</a>
                   </div>

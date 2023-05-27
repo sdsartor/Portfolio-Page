@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import images from "../img";
 export default class Footer extends Component {
     render() {
         return (
@@ -6,7 +7,7 @@ export default class Footer extends Component {
             <footer>
   <div className="footer">
   <a href="https://github.com/sdsartor">
-    <img src alt="github" id="github"></img></a>
+    <img src={require("../img/github-mark-white.png")} alt="github" id="github"></img></a>
   </div>
 </footer>
 </div>

@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import images from "../img/index";
 export default class Portfolio extends Component {
 
  
@@ -8,13 +9,12 @@ export default class Portfolio extends Component {
             <>
             <div className="projectspadding">
             <div id="id_projects">
-            <h1>Projects</h1>
+            <h1 style={{fontSize: "48px"}}>Projects</h1>
             </div>
                 <div className="flip-card">
                     <div className="flip-card-inner">
                       <div className="flip-card-front">
-
-                        <img src="00-sad-app\public\images\schedule.jpg" alt="schedule"></img>
+                        <img src={require("../img/schedule.jpg")} alt="schedule" style={{width: "500px", height: "300px", borderRadius: " 25px"}}></img>
                       </div>
                       <div className="flip-card-back">
                         <h1>Scheduler</h1>
@@ -26,7 +26,7 @@ export default class Portfolio extends Component {
                   <div id="volley" class="flip-card">
                     <div className="flip-card-inner">
                       <div className="flip-card-front">
-                        <img src="./volley.jpg" alt="volley"></img>
+                        <img src={require("../img/volley.jpg")} style={{width: "500px", height: "300px", borderRadius: " 25px"}} alt="volley"></img>
                       </div>
                       <div className="flip-card-back">
                         <h1>README Template Generator</h1>
@@ -38,7 +38,7 @@ export default class Portfolio extends Component {
                   <div className="flip-card">
                     <div className="flip-card-inner">
                       <div className="flip-card-front">
-                        <img src="DandD.jpg" alt="Avatar"></img>
+                        <img src={require("../img/DandD.jpg")} alt="Avatar" style={{width: "500px", height: "300px", borderRadius: " 25px"}}></img>
                       </div>
                       <div className="flip-card-back">
                         <h1>Dungeons & Dragons Character Creator and Store Locator</h1>
@@ -50,7 +50,7 @@ export default class Portfolio extends Component {
                   <div className="flip-card">
                     <div className="flip-card-inner">
                       <div className="flip-card-front">
-                        <img src="quest.jpeg" alt="Avatar"></img>
+                        <img src={require("../img/quest.jpeg")} alt="Avatar" style={{width: "500px", height: "300px", borderRadius: " 25px"}}></img>
                       </div>
                       <div className="flip-card-back">
                         <h1>Dungeons and Dragons Quest Creator</h1>
@@ -59,6 +59,25 @@ export default class Portfolio extends Component {
                       </div>
                     </div>
                   </div>
+                  <br>
+                  </br>
+                  <br>
+                  </br>
+                  <br>
+                  </br>
+                  <br>
+                  </br>
+                  <br>
+                  </br>
+                  <br>
+                  </br>
+                  <br>
+                  </br>
+                  <br>
+                  </br>
+                  <br>
+                  </br>
+                
                   </div>
         </>
         ) 
