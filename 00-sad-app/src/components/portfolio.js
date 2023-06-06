@@ -26,12 +26,12 @@ export default class Portfolio extends Component {
                   <div id="volley" class="flip-card">
                     <div className="flip-card-inner">
                       <div className="flip-card-front">
-                        <img src={require("../img/volley.jpg")} style={{width: "500px", height: "300px", borderRadius: " 25px"}} alt="volley"></img>
+                        <img src={require("../img/dog.gif")} style={{width: "500px", height: "300px", borderRadius: " 25px"}} alt="volley"></img>
                       </div>
                       <div className="flip-card-back">
-                        <h1>README Template Generator</h1>
+                        <h1>Captains-Quarters App</h1>
                         <p>Click Link Below</p>
-                        <a href="https://github.com/sdsartor/README-generator">https://github.com/sdsartor/README-generator</a>
+                        <a href="https://captains-quarters.herokuapp.com/">https://captains-quarters.herokuapp.com/</a>
                       </div>
                     </div>
                   </div>
