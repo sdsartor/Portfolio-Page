@@ -19,7 +19,7 @@ export default class Portfolio extends Component {
                       <div className="flip-card-back">
                         <h1>Scheduler</h1>
                         <p>Click Link Below</p>
-                        <a href="https://sdsartor.github.io/Weekly-Scheduler/">https://sdsartor.github.io/Weekly-Scheduler/</a>
+                        <a href="https://sdsartor.github.io/Weather/">https://sdsartor.github.io/Weather/</a>
                       </div>
                     </div>
                   </div>
