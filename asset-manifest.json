@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/Portfolio-Page/static/css/main.dff9a026.css",
-    "main.js": "/Portfolio-Page/static/js/main.2471e10a.js",
+    "main.css": "/Portfolio-Page/static/css/main.eee744dd.css",
+    "main.js": "/Portfolio-Page/static/js/main.7b897bde.js",
     "static/media/Confidence.jpg": "/Portfolio-Page/static/media/Confidence.482ae99bccb12c4accb2.jpg",
     "static/media/how-to-create-a-design-portfolio.jpg": "/Portfolio-Page/static/media/how-to-create-a-design-portfolio.c8517c70fa00a607855d.jpg",
+    "static/media/Resume.pdf": "/Portfolio-Page/static/media/Resume.4bd770e3968230d8421e.pdf",
     "static/media/DandD.jpg": "/Portfolio-Page/static/media/DandD.adff561c3c4eff8e6c33.jpg",
+    "static/media/arrow.gif": "/Portfolio-Page/static/media/arrow.e36b9fd76f974058c9d0.gif",
     "static/media/volley.jpg": "/Portfolio-Page/static/media/volley.2900c9317b4329e6a869.jpg",
     "static/media/schedule.jpg": "/Portfolio-Page/static/media/schedule.1ce7754830b8402f56cf.jpg",
     "static/media/quest.jpeg": "/Portfolio-Page/static/media/quest.becf957aea8a2ff15fca.jpeg",
+    "static/media/linkedin-logo-png-2026.png": "/Portfolio-Page/static/media/linkedin-logo-png-2026.8b89ce01929a419c5625.png",
     "static/media/dog.gif": "/Portfolio-Page/static/media/dog.ff7113d08807aaea0468.gif",
     "index.html": "/Portfolio-Page/index.html",
-    "main.dff9a026.css.map": "/Portfolio-Page/static/css/main.dff9a026.css.map",
-    "main.2471e10a.js.map": "/Portfolio-Page/static/js/main.2471e10a.js.map"
+    "main.eee744dd.css.map": "/Portfolio-Page/static/css/main.eee744dd.css.map",
+    "main.7b897bde.js.map": "/Portfolio-Page/static/js/main.7b897bde.js.map"
   },
   "entrypoints": [
-    "static/css/main.dff9a026.css",
-    "static/js/main.2471e10a.js"
+    "static/css/main.eee744dd.css",
+    "static/js/main.7b897bde.js"
   ]
 }
