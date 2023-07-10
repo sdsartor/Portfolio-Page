@@ -138,6 +138,15 @@ header {
   text-align: right;
 }
 
+#resume {
+  color: blue;
+  text-decoration: dotted;
+}
+
+#resume:hover {
+  color: yellowgreen;
+  text-decoration: dotted;
+}
 #navigation:hover {
   color: yellowgreen;
   text-decoration: dotted;
@@ -176,4 +185,29 @@ header {
   .body .header {
     width: min-content;
   }
+}
+
+#linkedin {
+  margin-left: 1.1%;
+  height: 40px;
+}
+
+#resume-title {
+  border: 4px red solid;
+  width:22%;
+  color: darkred;
+  background-color: rgb(0, 145, 255);
+  margin-left: 34vh;
+  font-size: 48px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+#resume-title:hover {
+  cursor:pointer;
+}
+
+#arrow {
+margin-left: 60vh
+  
 }

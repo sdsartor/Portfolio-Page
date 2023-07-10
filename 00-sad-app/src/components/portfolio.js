@@ -17,7 +17,7 @@ export default class Portfolio extends Component {
                         <img src={require("../img/schedule.jpg")} alt="schedule" style={{width: "500px", height: "300px", borderRadius: " 25px"}}></img>
                       </div>
                       <div className="flip-card-back">
-                        <h1>Scheduler</h1>
+                        <h1>Pilot Aid</h1>
                         <p>Click Link Below</p>
                         <a href="https://sdsartor.github.io/pilot-mate/">https://sdsartor.github.io/pilot-mate/</a>
                       </div>

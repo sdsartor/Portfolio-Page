@@ -12,9 +12,12 @@ export default class Header extends Component {
                 </img>
                 </div>
                 <div>
-                <a href="#id_projects" id="projects" style={{textAlign: "right", marginRight: "2%"}}>Projects</a>
+                <a href="#id_projects" id="projects" style={{textAlign: "", marginRight: "1%"}}>Projects</a>
               
-                  <a href="#id_about" id="navigation" style={{textAlign: "right", marginRight: "5%"}}>About Me</a>
+                  <a href="#id_about" id="navigation" style={{textAlign: "t", marginRight: "1%"}}>About Me</a>
+               
+
+                  <a href="#id_resume" id="resume" style={{textAlign: "", marginRight: "5%"}}>Resume</a>
                   </div>
               </page-nav-list>
               </div>
