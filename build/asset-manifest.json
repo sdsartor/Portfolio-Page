@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5831bc0a.css",
+    "main.js": "/static/js/main.a5cc180b.js",
+    "static/media/Confidence.jpg": "/static/media/Confidence.482ae99bccb12c4accb2.jpg",
+    "static/media/how-to-create-a-design-portfolio.jpg": "/static/media/how-to-create-a-design-portfolio.c8517c70fa00a607855d.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.4bd770e3968230d8421e.pdf",
+    "static/media/DandD.jpg": "/static/media/DandD.adff561c3c4eff8e6c33.jpg",
+    "static/media/arrow.gif": "/static/media/arrow.e36b9fd76f974058c9d0.gif",
+    "static/media/volley.jpg": "/static/media/volley.2900c9317b4329e6a869.jpg",
+    "static/media/schedule.jpg": "/static/media/schedule.1ce7754830b8402f56cf.jpg",
+    "static/media/quest.jpeg": "/static/media/quest.becf957aea8a2ff15fca.jpeg",
+    "static/media/linkedin-logo-png-2026.png": "/static/media/linkedin-logo-png-2026.8b89ce01929a419c5625.png",
+    "static/media/dog.gif": "/static/media/dog.ff7113d08807aaea0468.gif",
+    "index.html": "/index.html",
+    "main.5831bc0a.css.map": "/static/css/main.5831bc0a.css.map",
+    "main.a5cc180b.js.map": "/static/js/main.a5cc180b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5831bc0a.css",
+    "static/js/main.a5cc180b.js"
+  ]
+}
