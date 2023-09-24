@@ -168,8 +168,8 @@ header {
   background-image: url(/public/how-to-create-a-design-portfolio.jpg);
 }
 
-#github {
-  margin-left: 42%;
+#linkedin {
+  margin-left: 1%;
   height: 40px;
 }
 
@@ -187,8 +187,14 @@ header {
   }
 }
 
-#linkedin {
-  margin-left: 1.1%;
+#ziprecruiter {
+  height: 40px;
+  margin-left: 1%;
+  align-items: center;
+}
+
+#github {
+  margin-left: 2%;
   height: 40px;
 }
 

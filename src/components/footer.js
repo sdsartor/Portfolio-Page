@@ -10,6 +10,8 @@ export default class Footer extends Component {
     <img src={require("../img/github-mark-white.png")} alt="github" id="github"></img></a>
     <a href="https://www.linkedin.com/in/matthew-sartor-521ba927a/">
     <img src={require("../img/linkedin-logo-png-2026.png")} alt="linkedin" id="linkedin"></img></a>
+    <a href="https://www.ziprecruiter.com/profile">
+      <img src={require('../img/ZIP.png')} alt="ziprecruiter" id="ziprecruiter"></img></a>
   </div>
 </footer>
 </div>
