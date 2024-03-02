@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio-Page/static/css/main.76f8eb8f.css",
-    "main.js": "/Portfolio-Page/static/js/main.ce23541e.js",
+    "main.js": "/Portfolio-Page/static/js/main.f890e5d7.js",
     "static/media/Confidence.jpg": "/Portfolio-Page/static/media/Confidence.482ae99bccb12c4accb2.jpg",
+    "static/media/Resume.pdf": "/Portfolio-Page/static/media/Resume.99ddfeb561d9d17ff36c.pdf",
     "static/media/how-to-create-a-design-portfolio.jpg": "/Portfolio-Page/static/media/how-to-create-a-design-portfolio.c8517c70fa00a607855d.jpg",
-    "static/media/Resume.pdf": "/Portfolio-Page/static/media/Resume.5beff6b4d14554bf9e01.pdf",
     "static/media/DandD.jpg": "/Portfolio-Page/static/media/DandD.adff561c3c4eff8e6c33.jpg",
     "static/media/arrow.gif": "/Portfolio-Page/static/media/arrow.e36b9fd76f974058c9d0.gif",
     "static/media/volley.jpg": "/Portfolio-Page/static/media/volley.2900c9317b4329e6a869.jpg",
@@ -15,10 +15,10 @@
     "static/media/ZIP.png": "/Portfolio-Page/static/media/ZIP.6af4db24437b5e90f080.png",
     "index.html": "/Portfolio-Page/index.html",
     "main.76f8eb8f.css.map": "/Portfolio-Page/static/css/main.76f8eb8f.css.map",
-    "main.ce23541e.js.map": "/Portfolio-Page/static/js/main.ce23541e.js.map"
+    "main.f890e5d7.js.map": "/Portfolio-Page/static/js/main.f890e5d7.js.map"
   },
   "entrypoints": [
     "static/css/main.76f8eb8f.css",
-    "static/js/main.ce23541e.js"
+    "static/js/main.f890e5d7.js"
   ]
 }
